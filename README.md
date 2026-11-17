@@ -10,7 +10,7 @@
 
 ### 🚀 What I'm Working On
 
-- 🛍️ Working on **Tikbi**, a freelance e-commerce project for a client, handling the API, back-office, and front-end development. Production launch planned for the end of October 2026.
+- 🛍️ Working on **Tikbi**, a freelance e-commerce project for a client, handling the API, back-office, and front-end development. Production launch planned for the end of November 2026.
 - 🌱 Currently learning **Spring Boot**.
 - 💡 Interested in **full-stack development, API design, software architecture, IoT (Internet of Things), embedded systems, and hardware engineering**.
 
